@@ -23,6 +23,10 @@ body {
 .navbar-inverse .navbar-nav>.active>a:hover {
     background-color: #b7339b;
 }
+.container{
+  padding-left:0px;
+  padding-right:0px;
+}
 
 p {
     font-family: cursive;
